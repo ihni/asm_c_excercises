@@ -1,0 +1,6 @@
+This is an Example File! Put it in the Uppercaser Program to see its effects.
+
+here's some extra symbols too: 123456789
+@#$%^**(
+
+wow!
